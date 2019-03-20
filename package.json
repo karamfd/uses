@@ -1,0 +1,10 @@
+{
+  "name": "uses",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Karam Fahad",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3"
+  }
+}

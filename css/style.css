@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #212a35;
+  color: #e0e0e0;
+}
+
+/* Header */
+header {
+  text-align: center;
+  margin: 4rem 0;
+}
+
+/* Space */
+section,
+footer {
+  padding: 0 10%;
+  margin-bottom: 4rem;
+}
+
+section h2 {
+  margin-bottom: 2rem;
+}
+
+/* List */
+ul {
+  padding: 0;
+}
+
+li {
+  margin-bottom: 1rem;
+  text-transform: none;
+  list-style-position: inside;
+}
+
+.icon {
+  width: 1.25rem;
+  height: auto;
+  margin-right: .25rem;
+}
+
+li a {
+  color: #1ec6e4;
+}
+
+.icon,
+li a {
+  display: inline-block;
+  vertical-align: text-top;
+}
+
+li ul {
+  margin-top: 1rem;
+  padding-left: 1.75rem;
+}
+
+li ul li {
+  margin-bottom: .5rem;
+}
+
+/* Capitalization */
+h1,
+h2,
+li a {
+  text-transform: capitalize;
+}
+
+.iterm {
+  text-transform: inherit;
+}

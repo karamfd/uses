@@ -38,6 +38,7 @@ li {
   margin-bottom: 1rem;
   text-transform: none;
   list-style-position: inside;
+  line-height: 2;
 }
 
 li a {

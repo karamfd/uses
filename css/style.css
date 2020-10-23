@@ -60,6 +60,10 @@ li ul li {
   margin-bottom: 0.5rem;
 }
 
+a span {
+  text-transform: initial;
+}
+
 /* App Icons */
 .icon {
   width: 1.25rem;
@@ -79,8 +83,4 @@ li a {
 
 h1 span {
   display: block;
-}
-
-.iterm {
-  text-transform: inherit;
 }

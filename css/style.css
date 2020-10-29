@@ -9,20 +9,24 @@ body {
 
 /* Header */
 header {
-  text-align: center;
   margin: 4rem 0;
-}
-
-header img {
-  width: 100px;
-  height: auto;
+  padding: 0 10%;
 }
 
 /* Space */
-section,
-footer {
+section {
   padding: 0 10%;
   margin-bottom: 4rem;
+}
+
+/* Headings */
+h1 {
+  margin-bottom: 4rem;
+}
+
+h1 a {
+  text-decoration: none;
+  color: hsl(10, 80%, 40%);
 }
 
 section h2 {
@@ -48,7 +52,6 @@ li a {
 li a:hover,
 li a:focus {
   color: hsl(10, 80%, 40%);
-  outline: 0;
 }
 
 li ul {
@@ -60,6 +63,7 @@ li ul li {
   margin-bottom: 0.5rem;
 }
 
+/* Links */
 a span {
   text-transform: initial;
 }
@@ -79,8 +83,4 @@ h1,
 h2,
 li a {
   text-transform: capitalize;
-}
-
-h1 span {
-  display: block;
 }

@@ -13,6 +13,10 @@ header {
   padding: 0 10%;
 }
 
+header p {
+  line-height: 1.5;
+}
+
 /* Space */
 section {
   padding: 0 10%;

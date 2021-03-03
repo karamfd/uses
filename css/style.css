@@ -18,6 +18,10 @@ header p {
 }
 
 /* Space */
+nav {
+  margin-bottom: 4rem;
+}
+
 section {
   padding: 0 10%;
   margin-bottom: 4rem;

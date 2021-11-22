@@ -73,6 +73,11 @@ li ul li {
 }
 
 /* Links */
+h2 a {
+  color: currentColor;
+  text-decoration: none;
+}
+
 a span {
   text-transform: initial;
 }

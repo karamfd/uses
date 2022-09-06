@@ -8,10 +8,11 @@ body {
   letter-spacing: 0.03rem;
 }
 
-/* Header */
-header {
-  margin: 4rem 0 3rem;
+/* Header and Nav */
+header,
+nav {
   padding: 0 10%;
+  margin: 4rem 0 3rem;
 }
 
 header p {

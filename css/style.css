@@ -1,101 +1,101 @@
 body {
-  margin: 0;
-  padding: 0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
-    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
-  background-color: hsl(190, 25%, 94%);
-  color: hsl(210, 25%, 15%);
-  letter-spacing: 0.03rem;
+	margin: 0;
+	padding: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+		Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+	background-color: hsl(190, 25%, 94%);
+	color: hsl(210, 25%, 15%);
+	letter-spacing: 0.03rem;
 }
 
 /* Header and Nav */
 header,
 nav {
-  padding: 0 10%;
-  margin: 4rem 0 3rem;
+	padding: 0 10%;
+	margin: 4rem 0 3rem;
 }
 
 header p {
-  line-height: 1.5;
+	line-height: 1.5;
 }
 
 /* Space */
 section {
-  padding: 0 10%;
-  margin-bottom: 4rem;
+	padding: 0 10%;
+	margin-bottom: 4rem;
 }
 
 /* Headings */
 h1 {
-  margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 h1 a {
-  text-decoration: none;
-  color: hsl(10, 80%, 40%);
+	text-decoration: none;
+	color: hsl(10, 80%, 40%);
 }
 
 .update {
-  margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 section h2 {
-  margin-bottom: 2rem;
+	margin-bottom: 2rem;
 }
 
 /* List */
 ul {
-  padding: 0;
+	padding: 0;
 }
 
 li {
-  margin-bottom: 1rem;
-  text-transform: none;
-  list-style-position: inside;
-  line-height: 2;
+	margin-bottom: 1rem;
+	text-transform: none;
+	list-style-position: inside;
+	line-height: 2;
 }
 
 li a {
-  color: hsl(190, 70%, 30%);
+	color: hsl(190, 70%, 30%);
 }
 
 li a:hover,
 li a:focus {
-  color: hsl(10, 80%, 40%);
+	color: hsl(10, 80%, 40%);
 }
 
 li ul {
-  margin-top: 1rem;
-  padding-left: 1.75rem;
+	margin-top: 1rem;
+	padding-left: 1.75rem;
 }
 
 li ul li {
-  margin-bottom: 0.5rem;
+	margin-bottom: 0.5rem;
 }
 
 /* Links */
 h2 a {
-  color: currentColor;
-  text-decoration: none;
+	color: currentColor;
+	text-decoration: none;
 }
 
 a span {
-  text-transform: initial;
+	text-transform: initial;
 }
 
 /* App Icons */
 .icon {
-  width: 1.25rem;
-  height: auto;
-  margin-right: 0.25rem;
-  /* center image: link and text are already centered with the bullet points */
-  display: inline-block;
-  vertical-align: middle;
+	width: 1.25rem;
+	height: auto;
+	margin-right: 0.25rem;
+	/* center image: link and text are already centered with the bullet points */
+	display: inline-block;
+	vertical-align: middle;
 }
 
 /* Text Transform*/
 h1,
 h2,
 li a {
-  text-transform: capitalize;
+	text-transform: capitalize;
 }

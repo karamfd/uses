@@ -15,7 +15,7 @@ body {
 header,
 nav {
 	padding: 0 10%;
-	margin: 4rem 0 3rem;
+	margin-block: 3rem;
 }
 
 header p {
@@ -25,7 +25,7 @@ header p {
 /* Space */
 section {
 	padding: 0 10%;
-	margin-block-end: 4rem;
+	margin-block-end: 3rem;
 }
 
 /* Headings */
@@ -33,17 +33,8 @@ h1 {
 	margin-block-end: 2rem;
 }
 
-h1 a {
-	text-decoration: none;
-	color: hsl(10, 80%, 40%);
-}
-
 .update {
-	margin-block-end: 2rem;
-}
-
-section h2 {
-	margin-block-end: 2rem;
+	margin-block-end: 1.5rem;
 }
 
 /* List */
@@ -58,15 +49,6 @@ li {
 	line-height: 2;
 }
 
-li a {
-	color: hsl(190, 70%, 30%);
-}
-
-li a:hover,
-li a:focus {
-	color: hsl(10, 80%, 40%);
-}
-
 li ul {
 	margin-block-start: 1rem;
 	padding-inline-start: 1.75rem;
@@ -77,9 +59,23 @@ li ul li {
 }
 
 /* Links */
+h1 a {
+	text-decoration: none;
+	color: hsl(10, 80%, 40%);
+}
+
 h2 a {
 	color: currentColor;
 	text-decoration: none;
+}
+
+li a {
+	color: hsl(190, 70%, 30%);
+}
+
+li a:hover,
+li a:focus {
+	color: hsl(10, 80%, 40%);
 }
 
 a span {

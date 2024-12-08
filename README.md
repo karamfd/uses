@@ -11,10 +11,10 @@
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/): replaces Adobe Illustrator.
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/): replaces Adobe Photoshop.
 - [Affinity Publisher](https://affinity.serif.com/en-us/publisher/): replaces Adobe InDesign.
-- [Figma](https://www.figma.com/): browser based UI design tool with real-time collaboration.
-- [Lunacy](https://icons8.com/lunacy): free cross-platform UI design tool.
-- [Iconset](https://iconset.io/): organize and import SVG icons.
 - [Color Picker](https://sindresorhus.com/system-color-picker): color picker with support for LCH.
+- [Figma](https://www.figma.com/): browser based UI design tool with real-time collaboration.
+- [Iconset](https://iconset.io/): organize and import SVG icons.
+- [Lunacy](https://icons8.com/lunacy): free cross-platform UI design tool.
 
 ## Recording & Streaming
 
@@ -27,8 +27,8 @@
 - [Fetch FTP](https://fetchsoftworks.com/): basic SFTP program with a free educational license.
 - [Git](https://git-scm.com/): version control system for all of your software development needs.
 - [Github](https://github.com): host your personal and private repositories in the cloud.
-- [Sizzy](https://sizzy.co/): test your websites on a variety of devices.
 - [Nova](https://nova.app/): Mac OS text editor for front-end web development.
+- [Sizzy](https://sizzy.co/): test your websites on a variety of devices.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 	- [Fast Syntax Highlighting](https://github.com/z-shell/F-Sy-H)
 	- [Github CLI](https://cli.github.com/)
@@ -47,7 +47,6 @@
 - [ALT Tab](https://github.com/lwouis/alt-tab-macos): switch between windows, which should be the default behavior.
 - [App Cleaner](https://freemacsoft.net/appcleaner/): delete apps and files hidden deep inside Mac OS.
 - [Fast Folder Finder](https://matthewpalmer.net/fastfolderfinder/): app launcher without the extra bloat.
-- [Flux](https://justgetflux.com/): changes the display colors during the day, so your eyes don't bleed at night.
 - [Rectangle](https://rectangleapp.com/): move and resize your windows with keyboard shortcuts.
 
 ## Communication

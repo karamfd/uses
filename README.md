@@ -18,7 +18,6 @@
 
 ## Recording & Streaming
 
-- [Camo](https://reincubate.com/camo/): turn your iPhone into a webcam.
 - [DaVinci Resolve](https://www.blackmagicdesign.com/ca/products/davinciresolve): free to use video editor.
 - [OBS](https://obsproject.com/): free to use video recording and live streaming.
 
@@ -31,7 +30,6 @@
 - [Sizzy](https://sizzy.co/): test your websites on a variety of devices.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 	- [Fast Syntax Highlighting](https://github.com/z-shell/F-Sy-H)
-	- [Github CLI](https://cli.github.com/)
 	- [Starship Prompt](https://starship.rs/)
 	- [Trash](https://github.com/sindresorhus/macos-trash)
 
@@ -45,9 +43,7 @@
 ## Utilities
 
 - [ALT Tab](https://github.com/lwouis/alt-tab-macos): switch between windows, which should be the default behavior.
-- [App Cleaner](https://freemacsoft.net/appcleaner/): delete apps and files hidden deep inside Mac OS.
-- [Fast Folder Finder](https://matthewpalmer.net/fastfolderfinder/): app launcher without the extra bloat.
-- [Rectangle](https://rectangleapp.com/): move and resize your windows with keyboard shortcuts.
+- [Pear Cleaner](https://github.com/alienator88/Pearcleaner): delete apps and files hidden deep inside Mac OS.
 
 ## Communication
 
@@ -58,10 +54,10 @@
 ## Miscellaneous
 
 - [Adobe Reader](https://get.adobe.com/ca/reader/): for digitally signing legal documentations.
-- [Dato](https://sindresorhus.com/dato): replaces your calendar on the menu.
 - [Gifski](https://sindresorhus.com/gifski): convert videos into gifs.
 - [Hemingway Editor](https://hemingwayapp.com/): highlight unnecessary & complicated sentences in different colours.
 - [Kobo](https://www.kobo.com/ca/en): Canadian e-book store.
 - [LinkedIn Learning](https://www.linkedin.com/learning): education platform that you can access for free with a library card.
+- [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar): replaces your calendar on the menu.
 - [Pandan](https://sindresorhus.com/pandan): shows you how long you've been staring at your monitor, so you can take a break.
 - [Spotify](https://open.spotify.com/): streaming music for work or pleasure.

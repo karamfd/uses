@@ -23,10 +23,8 @@
 
 ## Web Development
 
+- [CotEditor](https://coteditor.com): barebones text editor with no plugins and LSP support.
 - [Fetch FTP](https://fetchsoftworks.com/): basic SFTP program with a free educational license.
-- [Git](https://git-scm.com/): version control system for all of your software development needs.
-- [Github](https://github.com): host your personal and private repositories in the cloud.
-- [Nova](https://nova.app/): Mac OS text editor for front-end web development.
 - [Sizzy](https://sizzy.co/): test your websites on a variety of devices.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 	- [Fast Syntax Highlighting](https://github.com/z-shell/F-Sy-H)

@@ -15,6 +15,7 @@
 - [Figma](https://www.figma.com/): browser based UI design tool with real-time collaboration.
 - [Iconset](https://iconset.io/): organize and import SVG icons.
 - [Lunacy](https://icons8.com/lunacy): free cross-platform UI design tool.
+- [Penpot](https://penpot.app/): open source UI design tool with self-hosting options.
 
 ## Recording & Streaming
 

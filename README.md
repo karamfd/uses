@@ -12,7 +12,7 @@
 
 ## Web Development
 
-- [CotEditor](https://coteditor.com): multi-platform text editor that doesn’t force AI on people.
+- [CotEditor](https://coteditor.com): Mac OS text editor that supports right to left languages.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 
 ## Productivity

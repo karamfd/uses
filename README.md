@@ -2,8 +2,8 @@
 
 ## Internet Browsers
 
-- [Chrome](https://www.google.com/chrome/): backup browser as some websites don’t work well with Firefox.
-- [Firefox](https://www.mozilla.org/en-CA): my main browser for personal use and web development.
+- [Vivaldi](https://vivaldi.com): my main browser for personal use and web development.
+- [Firefox](https://www.mozilla.org/en-CA): backup browser for testing websites.
 
 ## Graphic & Web Design
 
@@ -12,7 +12,7 @@
 
 ## Web Development
 
-- [CotEditor](https://coteditor.com): Mac OS text editor that supports right to left languages.
+- [Nova](https://nova.app): Mac OS text editor.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 
 ## Productivity
@@ -27,9 +27,9 @@
 
 ## Miscellaneous
 
-- [Adobe Reader](https://get.adobe.com/ca/reader/): for digitally signing legal documentations.
+- [Adobe Reader](https://get.adobe.com/ca/reader/): sign legal documents with encryptions.
 - [Gifski](https://sindresorhus.com/gifski): convert videos into gifs.
 - [Hemingway Editor](https://hemingwayapp.com/): highlight unnecessary & complicated sentences in different colours.
 - [Kobo](https://www.kobo.com/ca/en): Canadian e-book store.
-- [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar): replaces your calendar on the menu.
+- [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar): calendar app on the menu bar.
 - [Spotify](https://open.spotify.com/): streaming music for work or pleasure.

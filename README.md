@@ -15,11 +15,6 @@
 - [Nova](https://nova.app): Mac OS text editor.
 - [ZSH](https://www.zsh.org/): my favourite shell for web development.
 
-## Productivity
-
-- [Canary Mail](https://canarymail.io/): email client with trackpad gestures and built-in email encryption.
-- [Typora](https://typora.io/): markdown editor with support for syntax highlighting.
-
 ## Utilities
 
 - [ALT Tab](https://github.com/lwouis/alt-tab-macos): switch between windows, which should be the default behavior.
@@ -33,3 +28,4 @@
 - [Kobo](https://www.kobo.com/ca/en): Canadian e-book store.
 - [Menu Bar Calendar](https://sindresorhus.com/menu-bar-calendar): calendar app on the menu bar.
 - [Spotify](https://open.spotify.com/): streaming music for work or pleasure.
+- [Typora](https://typora.io/): markdown editor with support for syntax highlighting.
